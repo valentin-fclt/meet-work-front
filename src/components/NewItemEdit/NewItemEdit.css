@@ -1,0 +1,25 @@
+.new-item-edit {
+  padding: 1vh;
+}
+
+.new-item-edit-hidden {
+  display: none;
+}
+
+.new-item-edit-button {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.35);
+  margin: 0 0.5vh;
+}
+
+.new-item-edit-buttons-group {
+  margin: 1vh 0;
+}
+
+.new-item-edit-char-limit {
+  color: black !important;
+  padding: 1vh;
+}
+
+.new-item-edit-char-limit.reached {
+  color: red !important;
+}

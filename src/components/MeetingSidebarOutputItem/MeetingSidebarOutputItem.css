@@ -1,0 +1,9 @@
+.meeting-sidebar-output-item {
+  margin: 1.5vh 0vh 1vh 0vh;
+  width: 100%;
+}
+
+.meeting-sidebar-output-item-name {
+  text-align: justify;
+  font-weight: bold;
+}

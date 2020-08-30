@@ -1,0 +1,10 @@
+.new-meeting-modal-attachments-section-add-button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+}
+
+.new-meeting-modal-attachments-section-hint {
+  margin-top: 10px;
+  font-style: oblique;
+}

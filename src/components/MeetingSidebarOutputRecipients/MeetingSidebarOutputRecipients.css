@@ -1,0 +1,8 @@
+.meeting-sidebar-output-recipients-container {
+  margin: 2vh;
+}
+
+.meeting-sidebar-output-recipients-selector {
+  pointer-events: none;
+  opacity: 0.6;
+}

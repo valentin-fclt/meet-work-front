@@ -1,0 +1,15 @@
+.meeting-sidebar-name-share-button {
+  margin-top: 10px;
+}
+
+.meeting-sidebar-name-edit-render-text {
+  width: 100%;
+  color: white !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.meeting-sidebar-name-edit-edit-text {
+  text-align: center;
+}

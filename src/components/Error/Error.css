@@ -1,0 +1,17 @@
+.error-container {
+  padding: 15%;
+}
+
+.error-title {
+  font-size: calc(20px + 2vw);
+}
+
+.error-subtitle {
+  display: inline-block;
+  font-size: calc(15px + 1vw);
+}
+
+.error-button {
+  font-size: calc(12px + 0.8vw);
+  padding: calc(20px + 0.8vw);
+}

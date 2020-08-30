@@ -1,0 +1,14 @@
+.attachment-item-container {
+  margin: 1.5vh 0vh 1vh 0vh;
+  width: 100%;
+}
+
+.attachment-item-name {
+  text-align: justify;
+  font-weight: bold;
+}
+
+.attachment-item-name-centered {
+  text-align: center;
+  font-weight: bold;
+}

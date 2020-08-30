@@ -1,0 +1,15 @@
+.meeting-sidebar-countdown-countdown {
+  font-size: calc(12px + 6vh);
+  margin-top: 0;
+}
+
+.meeting-sidebar-countdown-ended-warning {
+  padding: 0.5vh;
+  font-size: calc(1.2vw);
+  font-weight: bold;
+}
+
+.meeting-sidebar-countdown.done {
+  font-size: calc(15px + 3vh + 1.5vw);
+  animation: blinker 2s linear infinite;
+}

@@ -1,0 +1,26 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+hr {
+  margin: 0 5%;
+}
+
+.container-centered-elements {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+.add-item-button {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+}
+
+.item-left-icon {
+  margin: 0 1vh;
+}

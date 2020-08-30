@@ -1,0 +1,16 @@
+.thank-you-container {
+  padding: 15%;
+}
+
+.thank-you-title {
+  font-size: calc(20px + 2vw);
+}
+
+.thank-you-subtitle {
+  font-size: calc(15px + 1vw);
+}
+
+.thank-you-button {
+  font-size: calc(12px + 0.8vw);
+  padding: calc(20px + 0.8vw);
+}
